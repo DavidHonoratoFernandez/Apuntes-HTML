@@ -2,7 +2,7 @@
 
 ## Indice
 
-[Comandos CMD Git](#comandos-cmd-git)
+[Aprendizaje GitHub](#aprendizaje-github)
 
 [Aprendizaje Teoría](#aprendizaje-teoria)
 
@@ -10,7 +10,17 @@
 
 <hr>
 
-## Comandos CMD Git
+## Aprendizaje Github
+
+Para empezar con GitHub, primero tenemos que conocer como podemos acceder a los repositorios, para ello, tenemos que dirigirnos a nuestro perfil, ubicado en la esquina superior derecha, en caso de no tener uno, lo creamos indicando nuestros datos:
+
+![TextoAlternativo](./img/InicioGitHub.png "Inicio GitHub")
+
+En el que se nos desplegará un panel lateral, donde indica las acciones que podemos hacer, seleccionaremos "Your repositories":
+
+![TextoAlternativo](./img/MenuGitHub.png "Inicio GitHub")
+
+### Comandos CMD Git
 
 **Git init:** Para crear o reiniciar el repositorio en local.
 
@@ -119,6 +129,8 @@ En HTML, cuando necesitamos enlazar a otros archivos, ya sean documentos HTML, C
 | **Ruta Relativa**: | Una ruta relativa especifica la ubicación del archivo en relación con la ubicación del documento actual. Es útil para mantener una estructura de enlaces clara dentro de un mismo sitio web. Las rutas relativas pueden ser simples y facilitar el mantenimiento del sitio, especialmente cuando los archivos se trasladan o reorganizan. |
 
 [Volver al Indice](#indice)
+
+<hr>
 
 ## Aprendizaje MarkDown
 
