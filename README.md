@@ -20,6 +20,21 @@ En el que se nos desplegará un panel lateral, donde indica las acciones que pod
 
 ![TextoAlternativo](./img/MenuGitHub.png "Inicio GitHub")
 
+A continuación veremos la sección de nuestros repositorios, pero como nosotros es crear uno, ignoraremos todos los repositorios e iremos al apartado "New", el cual se encuentra con un botón verde en la esquina superior derecha:
+
+![TextoAlternativo](./img/CreacionRepoGitHub.png "Inicio GitHub")
+
+Finalmente, estaremos en la sección de la creación del repositorio, en la que nos centraremos en tres zonas:
+
+La primera, es el nombre del repositorio, que es básicamente el nombre que tendrá el repositorio donde estará todo lo que creemos después.
+
+La segunda, es si queremos que el repositorio sea público o privado, en caso de ser público, está 100% accesible para cualquier usuario, la otra opción es privada, y, al contrario, solo nosotros decidiremos quien puede acceder.
+
+Y por último, el archivo readme, que en este caso, es el archivo donde podremos ver el contenido en github sin necesidad de un archivo externo.
+
+![TextoAlternativo](./img/ConfgRepoGitHub.png "Inicio GitHub")
+
+
 ### Comandos CMD Git
 
 **Git init:** Para crear o reiniciar el repositorio en local.
